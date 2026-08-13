@@ -41,7 +41,45 @@ Herramientas: Git, GitHub, Docker, VS Code, Postman
 
 | Proyecto              | Descripción                                                                                                                                        | Stack            | Link                                                                |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------- |
-| Parqueadero Multisede | Diseño e implementación de una base de datos en MongoDB para gestionar la operación de una empresa de parqueaderos ubicados en múltiples ciudades. | MongoDB, mongosh | [Abrir](https://github.com/CCarolinaArce/Proyecto_Conciertos_CarolinaArce.git) |
+# Descripción para tu Perfil de GitHub
+
+Basándome en el archivo `components.js` que contiene Web Components, aquí está una descripción profesional y estética para tu repositorio:
+
+---
+
+## 🎵 Proyecto Conciertos
+
+Una aplicación web moderna para la gestión y venta de entradas a eventos musicales. Interfaz intuitiva y responsiva que permite a los usuarios explorar conciertos disponibles, consultar detalles de eventos y gestionar su carrito de compras.
+
+### 🛠️ Tecnologías Utilizadas
+
+- **Frontend:** JavaScript (Web Components), HTML5, CSS3
+- **Arquitectura:** Componentes reutilizables personalizados
+- **UI/UX:** Material Design (Material Symbols), Temas dinámicos (variables CSS)
+- **Características:** 
+  - 🎫 Catálogo de eventos interactivo
+  - 🛒 Carrito de compras dinámico
+  - 📱 Diseño responsivo y adaptativo
+  - 🎨 Modo oscuro/claro
+  - ✨ Animaciones suaves y transiciones
+
+### 📋 Componentes Principales
+
+- `EventCard` - Tarjetas de eventos con información detallada
+- `KpiCard` - Indicadores y estadísticas
+- `CartItemCard` - Items del carrito de compras
+
+### ✨ Características
+
+✅ Experiencia de usuario fluida  
+✅ Web Components personalizados  
+✅ Sistema de temas dinámicos  
+✅ Gestión de carrito de compras  
+✅ Interfaz moderna y profesional
+
+---
+
+**💡 Consejo:** Añade esta descripción en el campo "About" de tu repositorio en GitHub para que sea visible en tu perfil. | [Abrir](https://github.com/CCarolinaArce/Proyecto_Conciertos_CarolinaArce.git) |
 
 
 ## Indicadores de GitHub
