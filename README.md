@@ -1,8 +1,84 @@
-- 👋 Hi, I’m @CCarolinaArce
-- 👀 I’m interested in ...learning, read, converse & drink coffee.
-- 🌱 I’m currently learning ...Software Engineering.
-- 💞️ I’m looking to collaborate on ...translations, game projects.
-- 📫 How to reach me ..carowarchief@gmail.com <3
+<div align="center">
+
+# Cindy Carolina Chavarria Arce
+
+### Desarrolladora Full Stack Junior en formación | San Miguel Petapa, Guatemala.
+
+
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=0891B2&center=true&vCenter=true&width=900&lines=Interfaces+con+HTML+CSS+y+JavaScript;MySQL+y+MongoDB;GitHub+Flow+y+documentacion)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ccarolina-a-17bb0b285)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CCarolinaArce)
+
+</div>
+
+---
+
+## Sobre mi
+
+Desarrollador junior en formación, enfocado en desarrollo web, bases de datos relacionales y NoSQL, y flujo profesional de trabajo con Git y GitHub.
+
+> Busco una oportunidad de tiempo completo donde pueda aportar en proyectos reales, seguir fortaleciendo mis habilidades de desarrollo y aprender de equipos con experiencia.
+
+
+## Stack visual
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,mysql,mongodb,git,github,docker,vscode,postman" alt="Stack principal" />
+</div>
+
+## Tecnologias por area
+
+```text
+Frontend: HTML, CSS, JavaScript
+Backend: Python, Node.js
+Datos: MySQL, MongoDB
+Herramientas: Git, GitHub, Docker, VS Code, Postman
+
+```
+
+## Proyectos destacados
+
+| Proyecto              | Descripción                                                                                                                                        | Stack            | Link                                                                |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------- |
+| Parqueadero Multisede | Diseño e implementación de una base de datos en MongoDB para gestionar la operación de una empresa de parqueaderos ubicados en múltiples ciudades. | MongoDB, mongosh | [Abrir](https://github.com/CCarolinaArce/Proyecto_Conciertos_CarolinaArce.git) |
+
+
+## Indicadores de GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TOTO05-a&show_icons=true&theme=github_dark/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TOTO05-a&theme=github_dark" alt="Profile details" width="98%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TOTO05-a&theme=github-dark&hide_border=true&radius=8&area=true" alt="Activity graph" width="98%" />
+</div>
+
+## Enfoque de trabajo
+
+- Analizo el requerimiento antes de comenzar a desarrollar.
+- Organizo los proyectos con una estructura clara.
+- Utilizo Git y GitHub para gestionar y documentar mis cambios.
+- Trabajo con ramas y commits descriptivos.
+- Busco validar mis cambios antes de entregarlos.
+---
+
+<div align="center">
+
+
+**Contacto:** [cindyarce92@gmail.com]()
+
+**LinkedIn:** [CCAROLINA A](https://www.linkedin.com/in/ccarolina-a-17bb0b285/)
+
+**Disponibilidad:** Tiempo completo  
+
+**Actualizado:** Agosto 2026
+
+</div>
 
 <!---
 CCarolinaArce/CCarolinaArce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
