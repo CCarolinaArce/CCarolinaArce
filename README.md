@@ -47,15 +47,15 @@ Herramientas: Git, GitHub, Docker, VS Code, Postman
 ## Indicadores de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TOTO05-a&show_icons=true&theme=github_dark/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CCarolinaArce&show_icons=true&theme=github_dark/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TOTO05-a&theme=github_dark" alt="Profile details" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CCarolinaArce&theme=github_dark" alt="Profile details" width="98%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TOTO05-a&theme=github-dark&hide_border=true&radius=8&area=true" alt="Activity graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CCarolinaArce&theme=github-dark&hide_border=true&radius=8&area=true" alt="Activity graph" width="98%" />
 </div>
 
 ## Enfoque de trabajo
@@ -79,8 +79,3 @@ Herramientas: Git, GitHub, Docker, VS Code, Postman
 **Actualizado:** Agosto 2026
 
 </div>
-
-<!---
-CCarolinaArce/CCarolinaArce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
