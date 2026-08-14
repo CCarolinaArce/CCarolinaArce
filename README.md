@@ -16,26 +16,35 @@
 
 ## Sobre mi
 
-Desarrollador junior en formación, enfocado en desarrollo web, bases de datos relacionales y NoSQL, y flujo profesional de trabajo con Git y GitHub.
+Soy desarrolladora Full Stack en formación con experiencia práctica en proyectos de frontend y backend. Me centro en construir interfaces accesibles y responsivas con HTML, CSS y JavaScript, y en diseñar APIs y modelos de datos eficientes usando Node.js, MongoDB y MySQL. He trabajado en aplicaciones de interfaz (MusicStream, Proyecto Conciertos, Trivia-Quizz), aplicaciones y plantillas con Next.js/TypeScript (Proyecto1, NEXT1) y sistemas de gestión y consultoría de datos con MongoDB (proyecto_MongoDB).
 
-> Busco una oportunidad de tiempo completo donde pueda aportar en proyectos reales, seguir fortaleciendo mis habilidades de desarrollo y aprender de equipos con experiencia.
+Me interesa aplicar buenas prácticas (componentización, control de versiones, pruebas básicas y despliegue) y seguir aprendiendo en equipos que utilicen metodologías ágiles.
+
+> Busco una oportunidad de tiempo completo donde pueda aportar en proyectos reales, seguir fortaleciendo mis habilidades y aprender de equipos con experiencia.
 
 
 ## Stack visual
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,mysql,mongodb,git,github,docker,vscode,postman" alt="Stack principal" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,mysql,mongodb,git,github,docker,vscode,postman" alt="Stack principal" />
 </div>
 
-## Tecnologias por area
+## Tecnologías por área
 
 ```text
-Frontend: HTML, CSS, JavaScript
-Backend: Python, Node.js
-Datos: MySQL, MongoDB
-Herramientas: Git, GitHub, Docker, VS Code, Postman
-
+Frontend: HTML5, CSS3 (Responsive, BEM), JavaScript (ES6+), TypeScript, Next.js, Web Components
+Backend: Node.js, Express, Python (scripts/automatización) 
+Bases de datos: MongoDB (agregaciones, $jsonSchema), MySQL (modelado relacional)
+DevOps & herramientas: Git, GitHub, Docker, Vercel, Postman, VS Code
+Prácticas: RESTful APIs, control de versiones con ramas, despliegue en Vercel/hosting, pruebas funcionales básicas
 ```
+
+Ejemplos en mis repositorios:
+- Interfaz y maquetación: musicStreamApp, music-stream-app, proyectoCSS, proyecton8n.
+- Aplicaciones / plantillas Next.js: Proyecto1, NEXT1, Next.js (dashboard).
+- Proyectos con lógica y datos: proyecto_MongoDB (Campus Parking — modelado y pipelines de agregación), Proyecto_Conciertos_CarolinaArce (frontend de venta de entradas), campusJS y Trivia-Quizz (ejercicios/ejemplos JavaScript).
+
+---
 
 ## Proyectos destacados
 
@@ -61,7 +70,6 @@ A continuación tienes una vista de varios de mis proyectos (públicos y privado
 | music-stream-app (private) | Interfaz y maquetación de MusicStream (screenshots en README). | HTML / CSS | ![lang](https://img.shields.io/badge/lang-CSS-lightgrey?style=flat-square) | (private) | ![preview](https://opengraph.githubassets.com/1/CCarolinaArce/music-stream-app) |
 | musicStreamApp (private) | Variante / otra versión de MusicStream. | HTML | ![lang](https://img.shields.io/badge/lang-HTML-lightgrey?style=flat-square) | (private) | ![preview](https://opengraph.githubassets.com/1/CCarolinaArce/musicStreamApp) |
 | Trivia-Quizz | Juego de trivia implementado en JavaScript. | JavaScript | ![lang](https://img.shields.io/github/languages/top/CCarolinaArce/Trivia-Quizz?style=flat-square) ![stars](https://img.shields.io/github/stars/CCarolinaArce/Trivia-Quizz?style=flat-square) | [Repo](https://github.com/CCarolinaArce/Trivia-Quizz) | ![preview](https://opengraph.githubassets.com/1/CCarolinaArce/Trivia-Quizz) |
-| proyecto_MongoDB | (repetido si aplica) | JavaScript | ![lang](https://img.shields.io/github/languages/top/CCarolinaArce/proyecto_MongoDB?style=flat-square) | [Repo](https://github.com/CCarolinaArce/proyecto_MongoDB) | ![preview](https://opengraph.githubassets.com/1/CCarolinaArce/proyecto_MongoDB) |
 | Proyecto_Conciertos_CarolinaArce (private) | Aplicación para gestión y venta de entradas (frontend). | JavaScript | ![lang](https://img.shields.io/badge/lang-JavaScript-lightgrey?style=flat-square) | (private) | ![preview](https://opengraph.githubassets.com/1/CCarolinaArce/Proyecto_Conciertos_CarolinaArce) |
 | Next.js (dashboard) | Next.js starter / dashboard. | TypeScript | ![lang](https://img.shields.io/github/languages/top/CCarolinaArce/Next.js?style=flat-square) | [Repo](https://github.com/CCarolinaArce/Next.js) | ![preview](https://opengraph.githubassets.com/1/CCarolinaArce/Next.js) |
 
@@ -94,11 +102,12 @@ Una aplicación web moderna para la gestión y venta de entradas a eventos music
 
 ## Enfoque de trabajo
 
-- Analizo el requerimiento antes de comenzar a desarrollar.
-- Organizo los proyectos con una estructura clara.
-- Utilizo Git y GitHub para gestionar y documentar mis cambios.
-- Trabajo con ramas y commits descriptivos.
-- Busco validar mis cambios antes de entregarlos.
+- Analizo el requerimiento antes de comenzar a desarrollar: defino objetivos, alcance y entregables.
+- Diseño soluciones modulares y accesibles: componentizo la UI y priorizo responsive y accesibilidad.
+- Trabajo con control de versiones y ramas: commits pequeños y descriptivos, PRs para revisión.
+- Desarrollo iterativo: implemento, pruebo localmente y despliego versiones de revisión.
+- Documentación y pruebas básicas: README claros, scripts de inicio y pruebas funcionales sencillas.
+- Colaboración: busco feedback y aplico revisiones para mejorar la calidad del código.
 ---
 
 <div align="center">
