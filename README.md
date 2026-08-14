@@ -41,9 +41,6 @@ Herramientas: Git, GitHub, Docker, VS Code, Postman
 
 | Proyecto              | Descripción                                                                                                                                        | Stack            | Link                                                                |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------- |
-# Descripción para tu Perfil de GitHub
-
-Basándome en el archivo `components.js` que contiene Web Components, aquí está una descripción profesional y estética para tu repositorio:
 
 ---
 
@@ -57,7 +54,7 @@ Una aplicación web moderna para la gestión y venta de entradas a eventos music
 - **Arquitectura:** Componentes reutilizables personalizados
 - **UI/UX:** Material Design (Material Symbols), Temas dinámicos (variables CSS)
 
-**💡 Consejo:** Añade esta descripción en el campo "About" de tu repositorio en GitHub para que sea visible en tu perfil. | [Abrir](https://github.com/CCarolinaArce/Proyecto_Conciertos_CarolinaArce.git) |
+ | [Abrir](https://github.com/CCarolinaArce/Proyecto_Conciertos_CarolinaArce.git) |
 
 
 ## Indicadores de GitHub
