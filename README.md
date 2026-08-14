@@ -26,13 +26,13 @@ Me interesa aplicar buenas prácticas (componentización, control de versiones, 
 ## Stack visual
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,nodejs,mysql,mongodb,git,github,docker,vscode,postman" alt="Stack principal" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,py,nodejs,mysql,mongodb,git,github,docker,vscode,postman" alt="Stack principal" />
 </div>
 
 ## Tecnologías por área
 
 ```text
-Frontend: HTML5, CSS3 (Responsive, BEM), JavaScript (ES6+), TypeScript, Next.js, Web Components
+Frontend: HTML5, CSS3 (Responsive, BEM), JavaScript (ES6+), React, TypeScript, Next.js, Web Components
 Backend: Node.js, Express, Python (scripts/automatización) 
 Bases de datos: MongoDB (agregaciones, $jsonSchema), MySQL (modelado relacional)
 DevOps & herramientas: Git, GitHub, Docker, Vercel, Postman, VS Code
