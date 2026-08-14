@@ -2,7 +2,7 @@
 
 # Cindy Carolina Chavarria Arce
 
-### Desarrolladora Full Stack Junior en formación | San Miguel Petapa, Guatemala.
+### Desarrolladora Full Stack Junior en formación | Estudiante de Ingenieria en Sistemas en Progreso...
 
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=0891B2&center=true&vCenter=true&width=900&lines=Interfaces+con+HTML+CSS+y+JavaScript;MySQL+y+MongoDB;GitHub+Flow+y+documentacion)
